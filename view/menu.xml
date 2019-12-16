@@ -45,20 +45,7 @@
         </record>
 
 
-        <!--
-        <record model ="ir.ui.view" id="pasos_tree">
-            <field name="name">paso.tree</field>
-            <field name="model">procs.paso</field>
-            <field name="steps" type="xml">
-                <tree string="Pasos" toolbar="1" on_write="on_create_write" editable="bottom" delete="true" create="true">
-                    <field name="numero" string="Número"/>
-                    <field name="responsable"/>
-                    <field name="descripcion"/>
-                </tree>
-            </field>
-        </record>
-
--->
+        
 
    
     </data>
