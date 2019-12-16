@@ -1,2 +1,1 @@
-# procs
-# relac
+Relacciones_Odoo_Gestor
